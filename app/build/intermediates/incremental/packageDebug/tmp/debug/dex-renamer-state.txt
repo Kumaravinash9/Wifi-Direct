@@ -1,0 +1,4 @@
+#Sun Mar 28 03:40:45 IST 2021
+base.0=F\:\\GSOC\\P2P\\WirelessComChat\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

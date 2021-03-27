@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e8c30570be71fe858d6d07822bdc3797\appcompat-v7-25.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db4948502e074297eeb97d71b077edf1\support-v4-25.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\576b230bbf83988772bbd7cba5d6c48e\animated-vector-drawable-25.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a17d85de0a69d7f8b3c8fe7010496540\support-vector-drawable-25.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9b164cbfffbabe53b16de6bee395edac\support-fragment-25.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4a956b04d48efcb8566daa593b00c2f\support-media-compat-25.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d27d7c8c6a38bb6e4a5cfcd98ed89cd7\support-core-utils-25.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c66a3eb06904cb9a78422d6f606aeb8b\support-core-ui-25.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e29fcd364804ffd542ec653dd723c846\support-compat-25.0.0\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e8c30570be71fe858d6d07822bdc3797\appcompat-v7-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e8c30570be71fe858d6d07822bdc3797\appcompat-v7-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db4948502e074297eeb97d71b077edf1\support-v4-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db4948502e074297eeb97d71b077edf1\support-v4-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\576b230bbf83988772bbd7cba5d6c48e\animated-vector-drawable-25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\576b230bbf83988772bbd7cba5d6c48e\animated-vector-drawable-25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a17d85de0a69d7f8b3c8fe7010496540\support-vector-drawable-25.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a17d85de0a69d7f8b3c8fe7010496540\support-vector-drawable-25.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9b164cbfffbabe53b16de6bee395edac\support-fragment-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9b164cbfffbabe53b16de6bee395edac\support-fragment-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4a956b04d48efcb8566daa593b00c2f\support-media-compat-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4a956b04d48efcb8566daa593b00c2f\support-media-compat-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d27d7c8c6a38bb6e4a5cfcd98ed89cd7\support-core-utils-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d27d7c8c6a38bb6e4a5cfcd98ed89cd7\support-core-utils-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c66a3eb06904cb9a78422d6f606aeb8b\support-core-ui-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c66a3eb06904cb9a78422d6f606aeb8b\support-core-ui-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e29fcd364804ffd542ec653dd723c846\support-compat-25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e29fcd364804ffd542ec653dd723c846\support-compat-25.0.0\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.fatih.wirelesscomchat.MainActivity
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.fatih.wirelesscomchat.ChatActivity
+ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e8c30570be71fe858d6d07822bdc3797\appcompat-v7-25.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e8c30570be71fe858d6d07822bdc3797\appcompat-v7-25.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db4948502e074297eeb97d71b077edf1\support-v4-25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db4948502e074297eeb97d71b077edf1\support-v4-25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\576b230bbf83988772bbd7cba5d6c48e\animated-vector-drawable-25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\576b230bbf83988772bbd7cba5d6c48e\animated-vector-drawable-25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a17d85de0a69d7f8b3c8fe7010496540\support-vector-drawable-25.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a17d85de0a69d7f8b3c8fe7010496540\support-vector-drawable-25.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9b164cbfffbabe53b16de6bee395edac\support-fragment-25.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9b164cbfffbabe53b16de6bee395edac\support-fragment-25.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4a956b04d48efcb8566daa593b00c2f\support-media-compat-25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4a956b04d48efcb8566daa593b00c2f\support-media-compat-25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d27d7c8c6a38bb6e4a5cfcd98ed89cd7\support-core-utils-25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d27d7c8c6a38bb6e4a5cfcd98ed89cd7\support-core-utils-25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c66a3eb06904cb9a78422d6f606aeb8b\support-core-ui-25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c66a3eb06904cb9a78422d6f606aeb8b\support-core-ui-25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e29fcd364804ffd542ec653dd723c846\support-compat-25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e29fcd364804ffd542ec653dd723c846\support-compat-25.0.0\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e8c30570be71fe858d6d07822bdc3797\appcompat-v7-25.0.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		ADDED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GSOC\P2P\WirelessComChat\app\src\main\AndroidManifest.xml
